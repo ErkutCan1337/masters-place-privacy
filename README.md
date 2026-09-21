@@ -8,3 +8,5 @@ published with GitHub Pages and used as the Privacy Policy URL on the App Store 
 - Türkçe: https://erkutcan1337.github.io/masters-place-privacy/#tr
 
 The game collects no personal data: no accounts, no ads, no analytics, no tracking, no network requests.
+
+Contact: info@2cteknoloji.com
